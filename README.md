@@ -42,7 +42,7 @@ I'm a web developer focused on practical applications that make everyday busines
 ## GitHub at a glance
 
 <div align="center">
-  <a href="https://github.com/SONE09?tab=repositories"><img src="https://img.shields.io/badge/Repositories-10-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="10 repositories" /></a>
+  <a href="https://github.com/SONE09?tab=repositories"><img src="https://raw.githubusercontent.com/SONE09/SONE09/main/assets/public-repositories.svg" alt="Public repositories" /></a>
   <img src="https://img.shields.io/badge/Primary%20stack-PHP%20%2B%20Laravel-06B6D4?style=for-the-badge&logo=laravel&logoColor=white" alt="Primary stack: PHP and Laravel" />
   <img src="https://img.shields.io/badge/Currently%20building-Business%20web%20tools-F97316?style=for-the-badge&logo=rocket&logoColor=white" alt="Currently building business web tools" />
 </div>
