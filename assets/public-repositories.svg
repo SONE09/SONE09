@@ -1,14 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="260" height="28" role="img" aria-label="Public repositories: 1">
   <title>Public repositories: 1</title>
-  <defs>
-    <linearGradient id="gradient" x1="0" x2="1">
-      <stop offset="0%" stop-color="#7C3AED"/>
-      <stop offset="100%" stop-color="#A855F7"/>
-    </linearGradient>
-  </defs>
+  <defs><linearGradient id="gradient" x1="0" x2="1"><stop offset="0%" stop-color="#7C3AED"/><stop offset="100%" stop-color="#A855F7"/></linearGradient></defs>
   <rect width="260" height="28" rx="5" fill="url(#gradient)"/>
   <path fill="#fff" d="M7 4a8 8 0 0 0-2.53 15.59c.4.07.55-.17.55-.38v-1.5c-2.23.49-2.7-.95-2.7-.95-.36-.93-.89-1.18-.89-1.18-.73-.5.05-.49.05-.49.8.06 1.23.83 1.23.83.72 1.23 1.88.87 2.34.67.07-.52.28-.87.51-1.07-1.78-.2-3.65-.89-3.65-3.97 0-.88.31-1.59.83-2.15-.08-.2-.36-1.02.08-2.12 0 0 .68-.22 2.2.82A7.65 7.65 0 0 1 9 7.73a7.6 7.6 0 0 1 2 0c1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.52.56.83 1.27.83 2.15 0 3.09-1.88 3.77-3.67 3.97.29.25.54.72.54 1.45v2.15c0 .21.14.46.55.38A8 8 0 0 0 7 4Z"/>
   <text x="27" y="18" fill="#fff" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="13" font-weight="600">Public repositories</text>
   <text x="247" y="18" fill="#fff" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="13" font-weight="700" text-anchor="end">1</text>
 </svg>
-
